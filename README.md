@@ -35,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" width="71" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" width="71" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="55" width="71" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" width="71" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55" width="71" alt="csharp logo"  />
 </div>
 
 ###
