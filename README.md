@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Me chamo Vinicius Simão mas pode me chamar de Simão que eu atendo também, tenho 21 anos e sou recém formado na Recode Pro 2022 e sou um apaixonado por tecnologia e pizza.</h3>
+<h3 align="left">Me chamo Vinicius Simão mas pode me chamar de Simão que eu atendo também, tenho 22 anos e sou formado na Recode Pro 2022 e sou um apaixonado por tecnologia e pizza.</h3>
 
 ###
 
